@@ -2,6 +2,12 @@
 
 ## [What is Docker?](https://github.com/jar285/UFO-JA373/wiki/What-is-Docker%3F#what-is-docker)
 
+- **Docker** is a platform that allows developers to create, deploy, and run applications inside lightweight, portable containers. **Containers** package an application with all its dependencies, ensuring it runs consistently across different environments.
+
+- **Virtualization** is a technology that creates virtual versions of physical resources, such as servers, storage, or networks, allowing multiple operating systems and applications to run on a single physical machine using virtual machines (VMs).
+
+- **Containerization** is a lightweight alternative to virtualization that packages an application and its dependencies into a container that shares the host system's operating system. Containers are isolated but run on the same OS, making them faster and more efficient than virtual machines.
+
 ## Prerequisites
 - Ensure Docker and Docker Compose are installed on your computer. You can download them from the [Docker website](https://www.docker.com/products/docker-desktop/).
 
