@@ -5,6 +5,8 @@
 ## Prerequisites
 - Ensure Docker and Docker Compose are installed on your computer. You can download them from the [Docker website](https://www.docker.com/products/docker-desktop/).
 
+- Feel free to visit our [Wiki](https://github.com/jar285/UFO-JA373/wiki) to learn more in-depth key concepts such as the Docker Kernel, containerization, virtualization, and troubleshooting tips.
+ 
 ### Creating a Docker Hub Account
 - Visit [Docker Hub](https://hub.docker.com/) and sign up for an account.
 - Once registered, you can create repositories to store your Docker images.
