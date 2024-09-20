@@ -1,5 +1,7 @@
 # 🛸 UFO-JA373
 
+![ufo](https://github.com/user-attachments/assets/c6fb60c0-4b0d-41be-84d7-888fac4582b5)
+
 ## 👽 About the Project
 **So far, our topic is going to be about UFOs! 🛸✨ Dive into the unknown as we explore the mysterious world of unidentified flying objects.**
 
@@ -20,3 +22,33 @@
 
 ⚠️ **Note**: Project requirements will be determined later on. Stay tuned for more updates! 
 
+**This is a draft version of the project structure for UFO-JA373. The structure and content may change as the project evolves.**
+```bash
+├── index.html               # Homepage with an introduction to UFO-JA373, featured documentation sections
+├── about.html               # About page with project details
+├── docs.html                # Documentation overview page (list of all topics)
+├── docker.html              # Docker Setup Guide
+├── containerization.html     # Containerization vs Virtualization
+├── kubernetes.html           # Kubernetes vs Docker
+├── scaling.html              # Scaling Strategies
+├── orchestration.html        # Orchestration and Container Management
+├── twelvefactor.html         # The Twelve-Factor App principles
+├── software_packaging.html   # Software Packaging techniques
+├── virtualization.html       # History of Virtualization
+├── resources.html            # Resources and external links page
+├── contact.html              # Contact page with form or email for feedback
+├── login.html                # Login page for users
+├── register.html             # Registration page for users
+├── profile.html              # User profile page
+└── assets/
+    ├── css/
+    │   └── styles.css        # Main stylesheet for the entire site
+    ├── js/
+    │   └── script.js         # Main JavaScript file for interactivity
+    └── images/
+        └── logo.png          # Site logo
+
+
+```
+
+<img width="861" alt="webarchi" src="https://github.com/user-attachments/assets/30d4a30b-6c80-4803-87ce-1cc5b8b933e2">
