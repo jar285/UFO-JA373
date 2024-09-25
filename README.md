@@ -14,6 +14,7 @@
 - [Key Concepts](https://github.com/jar285/UFO-JA373/blob/main/documents/Key-Concepts.md)
 
 <img src="https://www.includehelp.com/operating-systems/images/kernel.jpg" alt="Descripción de la imagen" width="300"/>
+
 - [Containerization vs Virtualization](https://github.com/jar285/UFO-JA373/blob/main/documents/Containerizations-vs-Virtualization.md)
   
   <img src="https://www.techwrix.com/wp-content/uploads/2023/06/Virtualization-vs-Containerization-techwrix-jpg.webp" alt="Descripción de la imagen" width="300"/>
