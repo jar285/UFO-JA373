@@ -40,6 +40,8 @@
 - [Resources](https://github.com/jar285/UFO-JA373/blob/main/documents/Sources%20of%20information.md)
 
 
+- [Glossary](https://github.com/jar285/UFO-JA373/blob/main/documents/glossary.md)
+
 ⚠️ **Note**: Project requirements will be determined later on. Stay tuned for more updates! 
 
 **This is a draft version of the project structure for UFO-JA373. The structure and content may change as the project evolves.**
